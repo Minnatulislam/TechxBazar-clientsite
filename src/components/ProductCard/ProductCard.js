@@ -105,7 +105,7 @@ const ProductCard = ({ product }) => {
           ) : (
             <label
               htmlFor="booking-modal"
-              className="btn btn-primary mt-3 w-full"
+              className="btn btn-primary rounded mt-3 w-full"
             >
               Book Now
             </label>

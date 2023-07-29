@@ -34,7 +34,7 @@ const Footer = () => {
               title="Our phone"
               className="transition-colors duration-300 text-deep-purple-accent-400 hover:text-deep-purple-800"
             >
-              +880 1643 805167
+              +880 1759 390115
             </a>
           </div>
           <div className="flex">
@@ -45,7 +45,7 @@ const Footer = () => {
               title="Our email"
               className="transition-colors duration-300 text-deep-purple-accent-400 hover:text-deep-purple-800"
             >
-              indrajithgoswami@gmail.com
+              minnatulislam.web@gmail.com
             </a>
           </div>
           <div className="flex">
